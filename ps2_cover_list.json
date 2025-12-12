@@ -1,11 +1,112 @@
-[{
-  "title": "Bully",
-  "serial": "SLUS-21269",
-  "region": "NTSC-U",
-  "cover": {
-    "box-3d": null,
-    "default": null,
-    "disc": null,
-    "title-logo": null
+[
+  {
+    "title": "Bully",
+    "serial": "SLUS-21269",
+    "region": "NTSC-U",
+    "cover": {
+      "box-3d": "Yes",
+      "default": "Yes",
+      "disc": "Yes",
+      "title-logo": "Yes"
+    }
+  },
+  {
+    "title": "God Hand",
+    "serial": "SLUS-21503",
+    "region": "NTSC-U",
+    "cover": {
+      "box-3d": "Yes",
+      "default": "Yes",
+      "disc": "Yes",
+      "title-logo": "Yes"
+    }
+  },
+  {
+    "title": "",
+    "serial": "",
+    "region": "NTSC-U",
+    "cover": {
+      "box-3d": "Yes",
+      "default": "Yes",
+      "disc": "Yes",
+      "title-logo": "Yes"
+    }
+  },
+  {
+    "title": "God of War",
+    "serial": "SCUS-97399",
+    "region": "NTSC-U",
+    "cover": {
+      "box-3d": "Yes",
+      "default": "Yes",
+      "disc": "Yes",
+      "title-logo": "Yes"
+    }
+  },
+  {
+    "title": "God of War II",
+    "serial": "SCUS-97481",
+    "region": "NTSC-U",
+    "cover": {
+      "box-3d": "Yes",
+      "default": "Yes",
+      "disc": "Yes",
+      "title-logo": "Yes"
+    }
+  },
+  {
+    "title": "Mortal Kombat - Shaolin Monks",
+    "serial": "SLUS-21087",
+    "region": "NTSC-U",
+    "cover": {
+      "box-3d": "Yes",
+      "default": "Yes",
+      "disc": "Yes",
+      "title-logo": "Yes"
+    }
+  },
+  {
+    "title": "Naruto Shippuuden - Ultimate Ninja 5",
+    "serial": "SLES-55605",
+    "region": "PAL-M",
+    "cover": {
+      "box-3d": "Yes",
+      "default": "Yes",
+      "disc": "Yes",
+      "title-logo": "Yes"
+    }
+  },
+  {
+    "title": "Need for Speed - Most Wanted",
+    "serial": "SLUS-21267",
+    "region": "NTSC-U",
+    "cover": {
+      "box-3d": "Yes",
+      "default": "Yes",
+      "disc": "Yes",
+      "title-logo": "Yes"
+    }
+  },
+  {
+    "title": "Need for Speed - Underground 2",
+    "serial": "SLUS-21065",
+    "region": "NTSC-U",
+    "cover": {
+      "box-3d": null,
+      "default": null,
+      "disc": null,
+      "title-logo": null
+    }
+  },
+  {
+    "title": "Resident Evil 4",
+    "serial": "SLUS-21134",
+    "region": "NTSC-U",
+    "cover": {
+      "box-3d": null,
+      "default": null,
+      "disc": null,
+      "title-logo": null
+    }
   }
-}]
+]

@@ -92,10 +92,10 @@
     "serial": "SLUS-21065",
     "region": "NTSC-U",
     "cover": {
-      "box-3d": null,
-      "default": null,
-      "disc": null,
-      "title-logo": null
+      "box-3d": "Yes",
+      "default": "Yes",
+      "disc": "Yes",
+      "title-logo": "Yes"
     }
   },
   {
@@ -103,10 +103,10 @@
     "serial": "SLUS-21134",
     "region": "NTSC-U",
     "cover": {
-      "box-3d": null,
-      "default": null,
-      "disc": null,
-      "title-logo": null
+      "box-3d": "Yes",
+      "default": "Yes",
+      "disc": "Yes",
+      "title-logo": "Yes"
     }
   }
 ]
